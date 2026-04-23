@@ -1,0 +1,64 @@
+.panel {
+  background: linear-gradient(180deg, #ffffff 0%, #f5f3ff 100%);
+  border: 1px solid #ddd6fe;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.title {
+  margin: 0 0 12px;
+  font-size: 1rem;
+}
+
+.rows {
+  display: grid;
+  gap: 10px;
+}
+
+.row {
+  display: grid;
+  gap: 6px;
+}
+
+.row label {
+  font-size: 13px;
+  color: #334155;
+  font-weight: 600;
+}
+
+.row input[type="range"] {
+  accent-color: #a855f7;
+}
+
+.notesTitle {
+  margin: 14px 0 8px;
+  font-size: 0.95rem;
+}
+
+.notesInput {
+  display: flex;
+  gap: 8px;
+}
+
+.notesInput input {
+  flex: 1;
+  border: 1px solid #d8b4fe;
+  border-radius: 8px;
+  padding: 8px;
+  background: #ffffff;
+}
+
+.notesButton {
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #06b6d4 0%, #8b5cf6 100%);
+  color: #fff;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.notes {
+  margin: 10px 0 0;
+  padding-left: 16px;
+  color: #334155;
+}
