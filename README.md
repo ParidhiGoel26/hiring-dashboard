@@ -145,18 +145,6 @@ Priority: P0 vs P2
 - Generated locally
 - 100 candidates (randomized data)
 
-Example:
-```json
-{
-  "id": 1,
-  "name": "Student A",
-  "college": "ABC Institute",
-  "assignment_score": 82,
-  "video_score": 70,
-  "ats_score": 65,
-  "github_score": 60,
-  "communication_score": 75
-}
 
 ---
 
