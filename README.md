@@ -158,6 +158,8 @@ Example:
   "communication_score": 75
 }
 
+---
+
 ## ⚙️ Setup Instructions
 
 Follow these steps to set up the project locally:
