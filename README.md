@@ -122,7 +122,9 @@ Displays:
 - Helps recruiters make quick decisions
 
 Example:
-- Assignment: 85 vs 72
+
+
+Assignment: 85 vs 72
 Video: 70 vs 60
 ATS: 90 vs 55
 Priority: P0 vs P2
@@ -155,3 +157,19 @@ Example:
   "github_score": 60,
   "communication_score": 75
 }
+
+## ⚙️ Setup Instructions
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/hiring-dashboard.git
+cd hiring-dashboard
+
+2. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/hiring-dashboard.git
+cd hiring-dashboard
